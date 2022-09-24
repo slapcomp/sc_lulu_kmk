@@ -1,6 +1,6 @@
 # sc_lulu_kmk
 
-This repository exemplifies per-key animated LEDs on the Boardsource Lulu split keyboard. 
+This repository exemplifies per-key animated LEDs on the Boardsource [Lulu](https://boardsource.xyz/help/612317c39c85c6050be18f95) split keyboard. 
 
 ## Installation
 
@@ -8,3 +8,5 @@ Download the ```left/``` and ```right/``` folders from this repository, then cop
 
 If all goes well, you should see behavior like this as you type:
 ![Image](lulu.gif "lulu")
+
+This code is the result of experimentation with the files that ship with the Lulu from Boardsource. 
